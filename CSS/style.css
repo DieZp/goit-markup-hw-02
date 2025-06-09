@@ -5,7 +5,8 @@ text-align: center;
 letter-spacing: 0.02em;
 color: #ffffff;
 max-width: 496px;
-margin: 0 auto 48px auto;}
+margin: 0 auto 48px auto;
+background: #2e2f42;}
 
 .order-button{background-color: #4D5AE5;
 font-family: "Roboto", sans-serif;
