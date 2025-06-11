@@ -28,8 +28,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-    .link-first:hover{color: #404bbf;}
-    .link-first:focus{color: #404bbf;
+    .link:hover{color: #404bbf;}
+    .link:focus{color: #404bbf;
     }
 
 .header-navigation-link-first {
