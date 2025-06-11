@@ -109,7 +109,7 @@ body {
             color: #404bbf;}
 
 .contact-info {
-    font-style: normal
+    font-style: normal;
 }
 
 .contact-item {
@@ -179,6 +179,11 @@ body {
     color: #2e2f42;
 }
 
+h2{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 .benefits-heading-second{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
