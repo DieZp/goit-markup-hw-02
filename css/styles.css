@@ -24,43 +24,13 @@ body {
     color: #2e2f42;
 }
 
-.link-first {font-weight: 500;
+.link {font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;}
     .link-first:hover{color: #404bbf;}
     .link-first:focus{color: #404bbf;
     }
-
-
-.link-second {
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.link-second:hover {
-    color: #404bbf;
-}
-
-.link-second:focus {
-    color: #404bbf;}
-
-.link-third {
-            font-weight: 500;
-            line-height: 1.5;
-            letter-spacing: 0.02em;
-            color: #2e2f42;
-        }
-    
-.link-third:hover {
-            color: #404bbf;
-        }
-    
-.ink-third:focus {
-            color: #404BBF;   }
-
 
 .header-navigation-link-first {
     font-weight: 500;
