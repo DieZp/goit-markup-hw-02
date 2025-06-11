@@ -24,20 +24,34 @@ body {
     color: #2e2f42;
 }
 
-.link-first {
+
+.link-second {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.link-first:hover {
+.link-second:hover {
     color: #404bbf;
 }
 
-.link-first:focus {
-    color: #404BBF;
-}
+.link-second:focus {
+    color: #404bbf;}
+
+        .link-third {
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #2e2f42;
+        }
+    
+        .link-third:hover {
+            color: #404bbf;
+        }
+    
+        .link-third:focus {
+            color: #404BBF;   }
 
 
 .header-navigation-link-first {
@@ -149,7 +163,7 @@ body {
 }
 
 
-.benefits-heading {
+.benefits-heading-first {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -157,6 +171,23 @@ body {
     color: #2e2f42;
 }
 
+.benefits-heading-second{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.benefits-heading-third{ font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
+
+.benefits-heading-fourth{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 
 .benefits-heading-text {
     font-size: 16px;
@@ -239,3 +270,4 @@ body {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+.bottom-logo-italic{color: #f4f4fd;}
